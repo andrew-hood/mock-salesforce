@@ -1,4 +1,4 @@
-import React, { useState } from "react";
+import { useState } from "react";
 import { OpportunityTable } from "./components/OpportunityTable/OpportunityTable";
 import { OpportunityDetails } from "./components/OpportunityDetails/OpportunityDetails";
 import { mockOpportunities } from "./data/mockData";
